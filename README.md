@@ -4,10 +4,10 @@ I am Wilfred Ao Qin Lai, a prospective candidate for UBC B.Sc. Combined Major in
 
 
 - 🔭 I’m currently working on migrating my projects to GitHub
-- 🌱 I’m currently learning **Python and SQL** through the Kaggle Learn Course Certificates
-- 🧑🏼‍💻I am looking for an **internship in Software Development or Data Science for 2021**
+- 🌱 I’m currently learning **python and SQL** through the Kaggle Learn Course Certificates
+- 🧑🏼‍💻 I am looking for an **internship in Software Development or Data Science for 2021**
 - 📫 How to reach me: <wilfredaqlai@gmail.com> | [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
-- 😄 Pronouns: he/him/his
+- 🙂 Pronouns: he/him/his
 - ⚡ Fun fact: my right lung is stuck to my chest wall
 
 
