@@ -16,9 +16,9 @@ ___
 
 ### Programming Languages and Technologies
 
-__``Familiar:``__ &nbsp; Java, C++, C, HTML, CSS, JavaScript, Python, R <br />
-__``Learning:``__ &nbsp; React Native, TypeScript, Express.js, RESTful API, MongoDB, PostgreSQL <br />
-__``Tools:``__ &nbsp; Git, Docker, Google Analytics, Google Tag Manager
+__``Familiar:``__ &nbsp; Java, C++, C, HTML, SCSS, CSS, JavaScript, Python\
+__``Learning:``__ &nbsp; React.js, TypeScript, Node.js, Express.js, RESTful API, MongoDB, PostgreSQL\
+__``Tools:``__ &nbsp; Git, Docker, Firebase, Google Analytics, Google Tag Manager, WordPress
 
 <!--
 everything in between these bars are commented out
