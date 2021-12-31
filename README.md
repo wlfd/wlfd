@@ -20,6 +20,8 @@ __``Familiar:``__ &nbsp; Java, C++, C, HTML, SCSS, CSS, JavaScript, Python\
 __``Learning:``__ &nbsp; React.js, TypeScript, Node.js, Express.js, RESTful API, MongoDB, PostgreSQL\
 __``Tools:``__ &nbsp; Git, Docker, Firebase, Google Analytics, Google Tag Manager, WordPress
 
+![Wilfred's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wlfd&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars)
+
 <!--
 everything in between these bars are commented out
 
