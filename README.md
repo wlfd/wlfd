@@ -7,7 +7,7 @@ ___
 ### About Me
 
 - 🧑🏼‍💻 I am looking for internships in Project Management or Sofware Development for Summer 2022 and Fall 2022
-- 🔭 I am currently working on building an application to integrate WooCommerce and Square Transaction API for Paragon Tea Room and actively LeetCoding
+- 🔭 I am currently building a web app to integrate WooCommerce and Square Transaction API for Paragon Tea Room, building a portfolio website, and actively LeetCoding on the side
 - 🙂 Pronouns: he/him/his
 - ⚡ Fun fact: I am currently training for my first marathon and Olympic distance triathlon
 - 📫 Reach me: <wilfredaqlai@gmail.com> | [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
@@ -20,7 +20,7 @@ __``Familiar:``__ &nbsp; Java, C++, C, HTML, SCSS, CSS, JavaScript, Python\
 __``Learning:``__ &nbsp; React.js, TypeScript, Node.js, Express.js, RESTful API, MongoDB, PostgreSQL\
 __``Tools:``__ &nbsp; Git, Docker, Firebase, Google Analytics, Google Tag Manager, WordPress
 
-![Wilfred's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wlfd&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars)
+<!-- ![Wilfred's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wlfd&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars) -->
 
 <!--
 everything in between these bars are commented out
