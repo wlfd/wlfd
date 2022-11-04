@@ -1,24 +1,27 @@
 ## Hello 👋
-___
- I am **Wilfred Lai**, a UBC B.Sc. Combined Major in Computer Science and Statistics candidate 2024, located in Vancouver, BC. 
- 
- I am currently applying for internships for Summer and Fall 2022, with the goal of pursuing a career in Software Development or Product Management. I was a licensed Canadian Investment Funds and Life, Accident and Sickness Insurance agent, and I also have experience in retail management, sales, e-commerce, SEO, bookkeeping, and personal and corporate tax accounting.
+
+---
+
+I am **Wilfred Lai**, a Test Lead at HSBC and a UBC Computer Science and Statistics candidate.
+
+I am currently applying for Product Management roles for Summer 2023 with the goal of pursuing a career in Product Management or Software Development. I was a licensed Canadian Investment Funds and Life, Accident and Sickness Insurance agent, and I also have experience in retail management, sales, e-commerce, SEO, bookkeeping, and personal and corporate tax accounting.
 
 ### About Me
 
-- 🧑🏼‍💻 I am looking for internships in Sofware Development or Product Management for Summer 2022 and Fall 2022
-- 🔭 I am currently building a web app to integrate WooCommerce and Square Transaction API for Paragon Tea Room, building a portfolio website, and actively LeetCoding on the side
+- 🧑🏼‍💻 I am looking for a Product Management Internship for Summer 2023
+- 🔭 I am a Test Lead on HSBC's iOS Stock Trading and Wealth Dashboard application
+- 🌱 I am completing my CAPM certification
 - 🙂 Pronouns: he/him/his
-- ⚡ Fun fact: I am currently training for my first marathon and second Whistler GranFondo
+- 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: I am training for my first Ironman 70.3 in May 2023
 - 📫 Reach me: <wilfredaqlai@gmail.com> | [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
-<!-- - 🌱 I’m currently working through Grokking the System Design Interview and Cracking the PM Interview -->
+
 <!-- ⚡ Fun fact: my right lung is stuck to my chest wall -->
 
 ### Programming Languages and Technologies
 
-__``Familiar:``__ &nbsp; Java, C++, C, HTML, SCSS, CSS, JavaScript, TypeScript, Python\
-__``Learning:``__ &nbsp; React, Node, Express, Python, REST API, MongoDB, PostgreSQL\
-__``Tools:``__ &nbsp; Git, Docker, Firebase, Google Analytics, Google Tag Manager, WordPress, Figma
+**`Familiar:`** &nbsp; Java, C++, C, HTML, SCSS, CSS, JavaScript, TypeScript\
+**`Learning:`** &nbsp; React, Node, Express, Python, Swift, REST API, MongoDB, PostgreSQL\
+**`Tools:`** &nbsp; Git, Docker, Firebase, Google Analytics, Google Tag Manager, BigQuery, WordPress, Figma, Jenkins, BrowserStack
 
 <!-- ![Wilfred's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wlfd&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars) -->
 
