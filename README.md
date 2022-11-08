@@ -2,7 +2,7 @@
 
 ---
 
-I am **Wilfred Lai**, a Test Lead at HSBC and a UBC Computer Science and Statistics candidate.
+I am **Wilfred Lai**, a Test Lead at HSBC and a UBC Computer Science and Statistics student.
 
 I am currently applying for Product Management roles for Summer 2023 with the goal of pursuing a career in Product Management or Software Development. I was a licensed Canadian Investment Funds and Life, Accident and Sickness Insurance agent, and I also have experience in retail management, sales, e-commerce, SEO, bookkeeping, and personal and corporate tax accounting.
 
