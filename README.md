@@ -2,18 +2,18 @@
 
 ---
 
-I am **Wilfred Lai**, a Test Lead at HSBC and a UBC Computer Science and Statistics student.
+I am **Wilfred Lai**, a Lead Test Engineer at HSBC working on the CA and US Stock Trading and Wealth Dashboard Mobile Application, and a UBC B.Sc. Computer Science and Statistics candidate pursuing a career in Product Management. Outside of work, I am training for the Ironman 70.3 Victoria 2023, and studying for my PMI-ACP certification.
 
-I am currently applying for Product Management roles for Summer 2023 with the goal of pursuing a career in Product Management or Software Development. I was a licensed Canadian Investment Funds and Life, Accident and Sickness Insurance agent, and I also have experience in retail management, sales, e-commerce, SEO, bookkeeping, and personal and corporate tax accounting.
+I have experience in web development, e-commerce, digital marketing, retail management, bookkeeping, and personal and corporate tax accounting; I was also a licensed Canadian Investment Funds and Life, Accident and Sickness Insurance agent.
 
 ### About Me
 
-- 🧑🏼‍💻 I am looking for a Product Management Internship for Summer 2023
-- 🔭 I am a Test Lead on HSBC's iOS Stock Trading and Wealth Dashboard application
-- 🌱 I am completing my CAPM certification
+- 🧑🏼‍💻 I am pursuing a careerin Product Management
+- 🔭 I am a Lead Test Engineer on HSBC's Stock Trading and Wealth Dashboard application
+- 🌱 I am completing my PMI-ACP certification
 - 🙂 Pronouns: he/him/his
 - 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: I am training for my first Ironman 70.3 in May 2023
-- 📫 Reach me: <wilfredaqlai@gmail.com> | [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
+- 📫 Reach me: <wilfred.aq.lai@gmail.com> | [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
 
 <!-- ⚡ Fun fact: my right lung is stuck to my chest wall -->
 
