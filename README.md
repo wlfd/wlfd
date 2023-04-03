@@ -2,14 +2,14 @@
 
 ---
 
-I am **Wilfred Lai**, an Agile Project Manager and Lead Test Engineer at HSBC working on the CA and US Mobile Stock Trading and Wealth Dashboard Application, and a UBC B.Sc. Computer Science and Statistics candidate pursuing a career in Product Management. Outside of work, I am training for the Ironman 70.3 Victoria 2023, and studying for my PMI-ACP certification.
+I am **Wilfred Lai**, an Agile Project Manager and Lead Test Engineer at HSBC working on the CA, US, and MX Mobile Stock Trading and Wealth Dashboard Application, and a UBC B.Sc. Computer Science and Statistics candidate pursuing a career in Product Management. Outside of work, I am training for the Ironman 70.3 Victoria 2023, and studying for my PMI-ACP certification.
 
 I have experience in web development, e-commerce, digital marketing, retail management, bookkeeping, and personal and corporate tax accounting; I was also a licensed Canadian Investment Funds and Life, Accident and Sickness Insurance agent.
 
 ### About Me
 
 - 🧑🏼‍💻 I am pursuing a career in Product Management
-- 🔭 I am an Agile Project Manager and Lead Test Engineer working on HSBC's Mobile Stock Trading and Wealth Dashboard application
+- 🔭 I am an Agile Project Manager and Lead Test Engineer working on HSBC's CA, US, and MX Mobile Stock Trading and Wealth Dashboard application
 - 🌱 I am completing my PMI-ACP certification
 - 🙂 Pronouns: he/him/his
 - 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: I am training for my first Ironman 70.3
