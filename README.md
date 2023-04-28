@@ -9,8 +9,8 @@ My previous experiences are in web development, e-commerce, digital marketing, r
 ### About Me
 
 - 🧑🏼‍💻 I am pursuing a career in Product Management
+- 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: I am training for my first Ironman 70.3 and pacing for the BMO Half Marathon
 - 🙂 Pronouns: he/him/his
-- 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: I am training for my first Ironman 70.3
 - 📫 Reach me: <wilfred.aq.lai@gmail.com> | [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
 
 <!-- ⚡ Fun fact: my right lung is stuck to my chest wall -->
