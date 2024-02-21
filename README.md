@@ -2,16 +2,19 @@
 
 ---
 
-I am **Wilfred Lai**, an Agile Project Manager and Lead Test Engineer at HSBC working on the Canada, US, and Mexico InvestDirect: Stock Trading, Investment Funds, and Wealth Dashboard Mobile Application, serving over 6 million users across North America. Outside of work, you can find me training for the Ironman 70.3 Victoria 2023 and studying for my PMI-ACP certification.
+I am **Wilfred Lai**, a Technical Product Manager serving over 7.2 million HSBC customers to launch mobile investment across Canada, US, and Mexico, and enable secure and efficient data migration for the $13.5 billion RBC acquisition of HSBC Canada; and successfully grown an e-commerce store by 29% into 6-figure sales!
 
-My previous experiences are in web development, e-commerce, digital marketing, retail management, bookkeeping, and personal and corporate tax accounting; I was also a licensed Canadian Investment Funds and Life, Accident and Sickness Insurance agent.
+Outside work, I'm pacing for the Vancouver Sun Run and BMO half marathon, and completing my PMI-ACP certification. My diverse background includes experience in full stack web development, e-commerce, digital marketing, retail management, and corporate and personal tax accounting; I was also a licensed Canadian Investment Funds and Life, Accident, and Sickness Insurance agent.
+
+Exploring new development tools and getting into the groove of coding again.
 
 ### About Me
 
 - 🧑🏼‍💻 I am pursuing a career in Product Management
 - 🙂 Pronouns: he/him/his
-- 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: I am training for my first Ironman 70.3
-- 📫 Reach me: <wilfred.aq.lai@gmail.com> | [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
+- 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: Ironman 70.3 Finisher
+- 🎓 Certifications: PMI-ACP, studying for AWS Cloud Practioner Certification
+- 📫 Reach me: [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
 
 <!-- ⚡ Fun fact: my right lung is stuck to my chest wall -->
 
@@ -19,7 +22,7 @@ My previous experiences are in web development, e-commerce, digital marketing, r
 
 **`Familiar:`** &nbsp; Java, C++, C, HTML, SCSS, CSS, JavaScript, TypeScript\
 **`Learning:`** &nbsp; React, Node, Express, Python, Swift, REST API, MongoDB, PostgreSQL\
-**`Tools:`** &nbsp; Git, Docker, Firebase, Google Analytics, Google Tag Manager, BigQuery, WordPress, Figma, Jenkins, BrowserStack
+**`Tools:`** &nbsp; GitHub, Docker, Firebase, Google Analytics, BigQuery, Figma, Jenkins, Selenium, BrowserStack, Azure, AWS, Databricks, Jira/Confluence
 
 <!-- ![Wilfred's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wlfd&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars) -->
 
