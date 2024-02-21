@@ -11,9 +11,9 @@ Exploring new development tools and getting into the groove of coding again.
 ### About Me
 
 - 🧑🏼‍💻 I am pursuing a career in Product Management
-- 🙂 Pronouns: he/him/his
-- 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: Ironman 70.3 Finisher
 - 🎓 Certifications: PMI-ACP, studying for AWS Cloud Practioner Certification
+- 🏊🏻‍♂️🚴🏻🏃🏻💨 Fun fact: Ironman 70.3 Finisher
+- 🙂 Pronouns: he/him/his
 - 📫 Reach me: [LinkedIn](http://www.linkedin.com/in/wilfredaqlai)
 
 <!-- ⚡ Fun fact: my right lung is stuck to my chest wall -->
